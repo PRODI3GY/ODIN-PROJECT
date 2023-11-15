@@ -160,3 +160,49 @@ a {
 	color: white;
 	background-color: #1F2937;
 }
+
+.second-last {
+	padding: 100px 150px;
+}
+
+.button2 {
+	background-color: #3882F6;
+	color: white;
+	border-radius: 5px;
+	border-color: white;
+	padding: 5px;
+	width: 95px;
+	font-weight: bold;
+	font-size: 15px;
+	margin:0;
+	display: flex;
+	justify-content: center;
+	margin-left: 300px;
+}
+.Final {
+	display: flex;
+	flex-direction: column;
+	background-color: #3882F6;
+	color: white;
+	padding: 30px;
+	border-radius: 10px;
+}
+
+.h4final {
+	margin: 0;
+	margin-left: 150px;
+	display: flex;
+	font-size: 24px;
+}
+
+.last-div-I-promise {
+	display: flex;
+	flex-direction: row;
+}
+
+.pfinal {
+	margin: 0;
+	margin-top: 10px;
+	margin-left: 150px;
+	display: flex;
+}
